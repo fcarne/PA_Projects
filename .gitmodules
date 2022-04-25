@@ -1,0 +1,6 @@
+[submodule "Haskell - Samsara"]
+	path = Haskell - Samsara
+	url = https://github.com/fcarne/Samsara
+[submodule "C++ - Naraka"]
+	path = C++ - Naraka
+	url = https://github.com/fcarne/Naraka
